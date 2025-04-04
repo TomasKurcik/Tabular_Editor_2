@@ -1,5 +1,5 @@
 // === CONFIGURATION ===
-var calcGroupName = "oooo";
+var calcGroupName = "oooo"; // Group name
 var dateColumn = "'Dates'[Date]";  // Full column reference
 // =======================
 
