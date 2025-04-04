@@ -1,4 +1,4 @@
-string exportPath = @"C:\Users\kurcit\OneDrive - Henkel\Desktop\TabEditor\course resources\RelationshipsExport.tsv";
+string exportPath = @"-Path-";
 
 var sb = new System.Text.StringBuilder();
 sb.AppendLine("FromTable\tFromColumn\t→\tToTable\tToColumn\tCardinality\tIsActive\tCrossFilteringBehavior");
